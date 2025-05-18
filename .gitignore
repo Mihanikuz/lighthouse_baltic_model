@@ -1,0 +1,22 @@
+# Arduino
+*.elf
+*.bin
+*.hex
+*.eep
+*.dmp
+*.map
+*.out
+*.a
+*.o
+*.d
+*.pyc
+*.pyo
+*.swp
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+
+# PlatformIO
+.pio/
+.vscode/ 
